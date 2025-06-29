@@ -1,2 +1,2 @@
 # Ochi-clone
-ochi design clone webpage
+Ochi.design clone webpage
